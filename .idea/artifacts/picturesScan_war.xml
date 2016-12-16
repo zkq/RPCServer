@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="picturesScan:war">
+    <output-path>$PROJECT_DIR$/../picturesScan/target</output-path>
+    <root id="archive" name="picturesScan-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="picturesScan:war exploded" />
+    </root>
+  </artifact>
+</component>
